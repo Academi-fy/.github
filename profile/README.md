@@ -1,6 +1,4 @@
-# Academi.fy
-Das Kommunikationsnetzwerk für Bildungseinrichtungen
-
+![trademark](https://github.com/Academi-fy/.github/assets/96653085/6775b657-623d-42fa-9e4e-bef48bc5f441)
 
 ## Tech Stack
 
