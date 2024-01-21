@@ -1,4 +1,4 @@
-![trademark](https://github.com/Academi-fy/.github/assets/96653085/6775b657-623d-42fa-9e4e-bef48bc5f441)
+![trademark](https://github.com/Academi-fy/.github/assets/96653085/f4af4314-f155-48a4-94e8-eba2207b5f65)
 
 ## Tech Stack
 
