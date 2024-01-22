@@ -2,4 +2,4 @@
 
 ## Tech Stack
 
-![tech stack dark](https://github.com/Academi-fy/.github/assets/96653085/0b57372b-a018-420c-9679-626b6a9f4c5d)
+![tech stack dark](https://github.com/Academi-fy/.github/assets/96653085/41fc04a8-184d-4d5f-8f96-b4f3d36a5864)
